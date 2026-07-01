@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Founders Wing",
+    "type": "wing",
+    "description": "Commissioners, original owners, and the league decisions that built the SFFL."
+  },
+  {
+    "name": "Champions Gallery",
+    "type": "wing",
+    "description": "Every title team and championship run."
+  },
+  {
+    "name": "Records Wing",
+    "type": "wing",
+    "description": "The statistical marks that define SFFL history."
+  }
+]

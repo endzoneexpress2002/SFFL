@@ -1,0 +1,158 @@
+[
+  {
+    "id": "broadway-shay",
+    "name": "Broadway Shay",
+    "owner": "Broadway Shay",
+    "logo": "assets/broadway-shay.png",
+    "status": "active",
+    "founded": 2003,
+    "page": "franchise-1.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "elysburg-phoenix",
+    "name": "Elysburg Phoenix",
+    "owner": "Elysburg Phoenix",
+    "logo": "assets/elysburg-phoenix.png",
+    "status": "active",
+    "founded": 2004,
+    "page": "franchise-2.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "endzone-express",
+    "name": "Endzone Express",
+    "owner": "Endzone Express",
+    "logo": "assets/endzone-express.png",
+    "status": "active",
+    "founded": 2005,
+    "page": "franchise-3.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "fantasy-fantasy",
+    "name": "Fantasy Fantasy",
+    "owner": "Fantasy Fantasy",
+    "logo": "assets/fantasy-fantasy.png",
+    "status": "active",
+    "founded": 2006,
+    "page": "franchise-4.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "homo-bengsuals",
+    "name": "Homo-Bengsuals",
+    "owner": "Homo-Bengsuals",
+    "logo": "assets/homo-bengsuals.png",
+    "status": "active",
+    "founded": 2002,
+    "page": "franchise-5.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "jt-bombers",
+    "name": "JT Bombers",
+    "owner": "JT Bombers",
+    "logo": "assets/jt-bombers.png",
+    "status": "active",
+    "founded": 2003,
+    "page": "franchise-6.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "laurens-bandits",
+    "name": "Laurens Bandits",
+    "owner": "Laurens Bandits",
+    "logo": "assets/laurens-bandits.png",
+    "status": "active",
+    "founded": 2004,
+    "page": "franchise-7.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "newer-white-chocolate",
+    "name": "Newer White Chocolate",
+    "owner": "Newer White Chocolate",
+    "logo": "assets/newer-white-chocolate.png",
+    "status": "active",
+    "founded": 2005,
+    "page": "franchise-8.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "redzone",
+    "name": "Redzone",
+    "owner": "Redzone",
+    "logo": "assets/redzone.png",
+    "status": "active",
+    "founded": 2006,
+    "page": "franchise-9.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "show-me-your-tds",
+    "name": "Show Me Your TDs",
+    "owner": "Show Me Your TDs",
+    "logo": "assets/show-me-your-tds.png",
+    "status": "active",
+    "founded": 2002,
+    "page": "franchise-10.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "vacc-daddies",
+    "name": "Vacc Daddies",
+    "owner": "Vacc Daddies",
+    "logo": "assets/vacc-daddies.png",
+    "status": "active",
+    "founded": 2003,
+    "page": "franchise-11.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  },
+  {
+    "id": "v-cozz",
+    "name": "V Cozz",
+    "owner": "V Cozz",
+    "logo": "assets/v-cozz.png",
+    "status": "active",
+    "founded": 2004,
+    "page": "franchise-12.html",
+    "colors": {
+      "primary": "#9f101b",
+      "accent": "#c8a96a"
+    }
+  }
+]

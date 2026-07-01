@@ -1,0 +1,22 @@
+{
+  "version": "1.1.0-release-prep",
+  "scopeLocked": true,
+  "publicNav": [
+    "Home",
+    "Demo",
+    "Standings",
+    "Franchises",
+    "Hall",
+    "News",
+    "More"
+  ],
+  "sourceOfTruth": [
+    "data/franchises.json",
+    "data/seasons.json",
+    "data/records.json",
+    "data/articles.json",
+    "data/current/sleeper-1315114040313278464.json"
+  ],
+  "currentDataMode": "demo fallback until live Sleeper sync is run",
+  "launchRule": "No new major public pages before v1.0; polish and data verification only."
+}

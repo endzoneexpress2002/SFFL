@@ -1,0 +1,67 @@
+{
+  "source": "SFFL Record Book normalized layer; verify against originals before public launch",
+  "allTimeStandings": [
+    {
+      "rank": 1,
+      "team": "Endzone Express",
+      "wins": 97,
+      "losses": 67,
+      "titles": 6,
+      "pointsFor": 10929
+    },
+    {
+      "rank": 2,
+      "team": "V Cozz",
+      "wins": 92,
+      "losses": 76,
+      "titles": 3,
+      "pointsFor": 11470
+    },
+    {
+      "rank": 3,
+      "team": "Homo-Bengsuals",
+      "wins": 85,
+      "losses": 79,
+      "titles": 2,
+      "pointsFor": 10226
+    },
+    {
+      "rank": 4,
+      "team": "JT Bombers",
+      "wins": 84,
+      "losses": 84,
+      "titles": 1,
+      "pointsFor": 10326
+    }
+  ],
+  "singleGame": [
+    {
+      "label": "Highest Game",
+      "team": "Homo-Bengsuals",
+      "value": 152,
+      "season": 2018,
+      "week": 4
+    },
+    {
+      "label": "Lowest Winning Score",
+      "team": "Redzone",
+      "value": 71,
+      "season": 2011,
+      "week": 9
+    }
+  ],
+  "streaks": [
+    {
+      "label": "Longest Win Streak",
+      "team": "V Cozz",
+      "value": 13,
+      "range": "2016 W5\u20132016 W17"
+    },
+    {
+      "label": "Longest Losing Streak",
+      "team": "Fantasy Fantasy",
+      "value": 10,
+      "range": "2019 W2\u20132019 W11"
+    }
+  ]
+}

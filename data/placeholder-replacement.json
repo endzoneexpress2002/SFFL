@@ -1,0 +1,34 @@
+{
+  "priority": "replace fictional demo content with real SFFL material as it becomes available",
+  "stillNeeded": [
+    {
+      "type": "photo",
+      "bucket": "Draft Parties",
+      "status": "needed",
+      "where": "Homepage, Almanac, articles"
+    },
+    {
+      "type": "photo",
+      "bucket": "Trophy Photos",
+      "status": "needed",
+      "where": "Trophy Room, Hall of Fame"
+    },
+    {
+      "type": "logo",
+      "bucket": "Defunct Franchises",
+      "status": "needed",
+      "where": "Almanac, Hall of Fame"
+    },
+    {
+      "type": "article",
+      "bucket": "Real weekly recaps",
+      "status": "pending Sleeper sync",
+      "where": "Newsroom"
+    }
+  ],
+  "safeDemoAssets": [
+    "graphics/news/week-10-chaos.png",
+    "graphics/news/mvp-ladder.png",
+    "graphics/news/hof-ballot.png"
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "week-10-chaos",
+    "title": "Week 10 Chaos Reshapes the Playoff Race",
+    "category": "Weekly Recap",
+    "image": "graphics/news/week-10-chaos.png",
+    "status": "demo",
+    "page": "article-week-10-chaos.html"
+  },
+  {
+    "slug": "bandits-blockbuster",
+    "title": "Bandits Make Blockbuster Move Before the Deadline",
+    "category": "Breaking News",
+    "image": "graphics/news/bandits-blockbuster.png",
+    "status": "demo",
+    "page": "article-bandits-blockbuster.html"
+  },
+  {
+    "slug": "mvp-ladder",
+    "title": "The SFFL MVP Ladder Enters Its Separation Phase",
+    "category": "Awards Watch",
+    "image": "graphics/news/mvp-ladder.png",
+    "status": "demo",
+    "page": "article-mvp-ladder.html"
+  },
+  {
+    "slug": "hof-ballot",
+    "title": "Hall of Fame Ballot Opens With Three Legacy Cases",
+    "category": "Hall of Fame",
+    "image": "graphics/news/hof-ballot.png",
+    "status": "demo",
+    "page": "article-hof-ballot.html"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "broadway-shay",
+    "name": "Broadway Shay",
+    "logo": "assets/broadway-shay.png",
+    "franchiseId": "broadway-shay"
+  },
+  {
+    "id": "elysburg-phoenix",
+    "name": "Elysburg Phoenix",
+    "logo": "assets/elysburg-phoenix.png",
+    "franchiseId": "elysburg-phoenix"
+  },
+  {
+    "id": "endzone-express",
+    "name": "Endzone Express",
+    "logo": "assets/endzone-express.png",
+    "franchiseId": "endzone-express"
+  },
+  {
+    "id": "fantasy-fantasy",
+    "name": "Fantasy Fantasy",
+    "logo": "assets/fantasy-fantasy.png",
+    "franchiseId": "fantasy-fantasy"
+  },
+  {
+    "id": "homo-bengsuals",
+    "name": "Homo-Bengsuals",
+    "logo": "assets/homo-bengsuals.png",
+    "franchiseId": "homo-bengsuals"
+  },
+  {
+    "id": "jt-bombers",
+    "name": "JT Bombers",
+    "logo": "assets/jt-bombers.png",
+    "franchiseId": "jt-bombers"
+  },
+  {
+    "id": "laurens-bandits",
+    "name": "Laurens Bandits",
+    "logo": "assets/laurens-bandits.png",
+    "franchiseId": "laurens-bandits"
+  },
+  {
+    "id": "newer-white-chocolate",
+    "name": "Newer White Chocolate",
+    "logo": "assets/newer-white-chocolate.png",
+    "franchiseId": "newer-white-chocolate"
+  },
+  {
+    "id": "redzone",
+    "name": "Redzone",
+    "logo": "assets/redzone.png",
+    "franchiseId": "redzone"
+  },
+  {
+    "id": "show-me-your-tds",
+    "name": "Show Me Your TDs",
+    "logo": "assets/show-me-your-tds.png",
+    "franchiseId": "show-me-your-tds"
+  },
+  {
+    "id": "vacc-daddies",
+    "name": "Vacc Daddies",
+    "logo": "assets/vacc-daddies.png",
+    "franchiseId": "vacc-daddies"
+  },
+  {
+    "id": "v-cozz",
+    "name": "V Cozz",
+    "logo": "assets/v-cozz.png",
+    "franchiseId": "v-cozz"
+  }
+]

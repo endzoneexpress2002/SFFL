@@ -1,0 +1,40 @@
+{
+  "mode": "Midseason Demo",
+  "leagueId": "1315114040313278464",
+  "season": 2025,
+  "week": 10,
+  "lastUpdated": "Demo build",
+  "headline": "Week 10 separation games reshape the SFFL playoff race.",
+  "standings": [
+    {"rank":1,"team":"Redzone","logo":"redzone.png","record":"7-2","pf":1287.4,"pa":1112.8,"streak":"W4","playoff":92},
+    {"rank":2,"team":"Broadway Shay","logo":"broadway-shay.png","record":"7-2","pf":1269.1,"pa":1131.6,"streak":"W2","playoff":89},
+    {"rank":3,"team":"JT Bombers","logo":"jt-bombers.png","record":"6-3","pf":1233.8,"pa":1188.2,"streak":"L1","playoff":77},
+    {"rank":4,"team":"V-Cozz","logo":"v-cozz.png","record":"6-3","pf":1218.6,"pa":1162.9,"streak":"W1","playoff":73},
+    {"rank":5,"team":"Endzone Express","logo":"endzone-express.png","record":"5-4","pf":1194.5,"pa":1198.4,"streak":"W2","playoff":58},
+    {"rank":6,"team":"Laurens Bandits","logo":"laurens-bandits.png","record":"5-4","pf":1188.0,"pa":1210.7,"streak":"W1","playoff":52},
+    {"rank":7,"team":"Elysburg Phoenix","logo":"elysburg-phoenix.png","record":"4-5","pf":1161.9,"pa":1178.3,"streak":"L2","playoff":41},
+    {"rank":8,"team":"Show Me Your TDs","logo":"show-me-your-tds.png","record":"4-5","pf":1144.2,"pa":1203.8,"streak":"W1","playoff":34},
+    {"rank":9,"team":"Vacc Daddies","logo":"vacc-daddies.png","record":"3-6","pf":1118.7,"pa":1233.9,"streak":"L3","playoff":19},
+    {"rank":10,"team":"Newer White Chocolate","logo":"newer-white-chocolate.png","record":"3-6","pf":1099.4,"pa":1221.2,"streak":"L1","playoff":15},
+    {"rank":11,"team":"Fantasy Fantasy","logo":"fantasy-fantasy.png","record":"2-7","pf":1044.8,"pa":1259.4,"streak":"L4","playoff":6},
+    {"rank":12,"team":"Homo-Bengsuals","logo":"homo-bengsuals.png","record":"2-7","pf":1038.5,"pa":1277.0,"streak":"W1","playoff":4}
+  ],
+  "matchups": [
+    {"slot":"Game of the Week","away":"Redzone","awayLogo":"redzone.png","awayProj":143.8,"home":"Broadway Shay","homeLogo":"broadway-shay.png","homeProj":141.9,"note":"Winner controls the top seed race."},
+    {"slot":"Rivalry Spotlight","away":"JT Bombers","awayLogo":"jt-bombers.png","awayProj":136.4,"home":"V-Cozz","homeLogo":"v-cozz.png","homeProj":132.7,"note":"Analytics vs explosion in a top-four clash."},
+    {"slot":"Bubble Game","away":"Endzone Express","awayLogo":"endzone-express.png","awayProj":128.2,"home":"Laurens Bandits","homeLogo":"laurens-bandits.png","homeProj":130.5,"note":"A playoff probability swing game."},
+    {"slot":"Desperation Bowl","away":"Vacc Daddies","awayLogo":"vacc-daddies.png","awayProj":119.1,"home":"Newer White Chocolate","homeLogo":"newer-white-chocolate.png","homeProj":121.4,"note":"Loser starts planning for next year."}
+  ],
+  "leaders": [
+    {"label":"Highest Weekly Score","name":"Redzone","value":"172.4", "context":"Week 7 vs Vacc Daddies"},
+    {"label":"Best Point Differential","name":"Broadway Shay","value":"+137.5", "context":"Through Week 9"},
+    {"label":"Most Consistent","name":"V-Cozz","value":"8/9", "context":"Weeks over 120"},
+    {"label":"Chaos Team","name":"Laurens Bandits","value":"5", "context":"Games decided by under 8"}
+  ],
+  "articles": [
+    {"title":"Week 10 Chaos Reshapes Playoff Race","category":"Weekly Recap","image":"week-10-chaos.png","url":"article-week-10-chaos.html"},
+    {"title":"Redzone Delivers Statement Win Under the Lights","category":"Game Recap","image":"redzone-statement.png","url":"article-redzone-statement.html"},
+    {"title":"MVP Ladder: Five Names, One Trophy Path","category":"Awards","image":"mvp-ladder.png","url":"article-mvp-ladder.html"},
+    {"title":"The Blood Feud Gets Another Prime-Time Chapter","category":"Rivalry","image":"blood-feud-next.png","url":"article-blood-feud-next.html"}
+  ]
+}

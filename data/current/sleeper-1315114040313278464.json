@@ -1,0 +1,96 @@
+{
+  "leagueId": "1315114040313278464",
+  "mode": "demo-fallback",
+  "season": 2025,
+  "week": 10,
+  "lastSync": "manual-demo-build",
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Redzone",
+      "wins": 7,
+      "losses": 2,
+      "pf": 1268.4,
+      "pa": 1097.1,
+      "streak": "W4"
+    },
+    {
+      "rank": 2,
+      "team": "Broadway Shay",
+      "wins": 7,
+      "losses": 2,
+      "pf": 1244.8,
+      "pa": 1110.6,
+      "streak": "W2"
+    },
+    {
+      "rank": 3,
+      "team": "V Cozz",
+      "wins": 6,
+      "losses": 3,
+      "pf": 1229.2,
+      "pa": 1152.9,
+      "streak": "L1"
+    },
+    {
+      "rank": 4,
+      "team": "JT Bombers",
+      "wins": 6,
+      "losses": 3,
+      "pf": 1208.5,
+      "pa": 1138.3,
+      "streak": "W1"
+    },
+    {
+      "rank": 5,
+      "team": "Laurens Bandits",
+      "wins": 5,
+      "losses": 4,
+      "pf": 1182.0,
+      "pa": 1160.7,
+      "streak": "W3"
+    },
+    {
+      "rank": 6,
+      "team": "Endzone Express",
+      "wins": 5,
+      "losses": 4,
+      "pf": 1169.7,
+      "pa": 1159.4,
+      "streak": "L2"
+    }
+  ],
+  "matchups": [
+    {
+      "away": "Redzone",
+      "home": "Broadway Shay",
+      "awayProj": 141.7,
+      "homeProj": 139.4,
+      "spotlight": "Game of the Week"
+    },
+    {
+      "away": "V Cozz",
+      "home": "JT Bombers",
+      "awayProj": 132.2,
+      "homeProj": 129.8,
+      "spotlight": "Playoff Seeding"
+    },
+    {
+      "away": "Laurens Bandits",
+      "home": "Endzone Express",
+      "awayProj": 127.5,
+      "homeProj": 130.1,
+      "spotlight": "Rivalry Watch"
+    }
+  ],
+  "transactions": [
+    {
+      "type": "trade",
+      "headline": "Bandits acquire RB depth in deadline move"
+    },
+    {
+      "type": "waiver",
+      "headline": "Redzone wins priority claim for breakout receiver"
+    }
+  ]
+}

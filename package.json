@@ -1,0 +1,25 @@
+{
+  "name": "sffl-site",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Official digital home of the Shore Fantasy Football League.",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "preview": "python3 -m http.server 4173",
+    "sync:sleeper": "node scripts/sync-sleeper.js",
+    "generate:weekly": "node scripts/generate-weekly-content.js",
+    "build:demo": "node scripts/build-demo-site.js",
+    "check": "node scripts/release-check.js",
+    "release": "npm run build:demo && npm run generate:weekly && npm run check"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "fantasy-football",
+    "sffl",
+    "sleeper",
+    "static-site"
+  ]
+}
